@@ -1,0 +1,54 @@
+body{
+ text-align:center;
+     background-image: url("https://bit.ly/2UU4j1H");
+}
+
+h1{
+ font-size:100px;
+ border: 50px double white;
+ background-image: url("https://bit.ly/2UVLQBx");
+ color:royalblue;
+     font-family: 'New Rocker', cursive;
+
+}
+
+img{
+ width:50%;
+  border: 50px double white;
+ background-image: url("https://bit.ly/2UVLQBx");
+}
+
+button{
+    text-align:center;
+background-image:url("https://bit.ly/2UVLQBx");
+  border: 20px double white;
+  color:white;
+  padding: 25px 32px;
+  font-size: 50px;
+  font-family: 'Righteous', cursive;
+
+
+}
+
+h2{
+ color: royalblue;
+ font-family: 'Luckiest Guy', cursive;
+ font-size: 75px;
+
+}
+
+h3{
+ color:white;
+ font-size: 75px;
+ font-family: 'New Rocker', cursive;
+
+}
+
+.container{
+    display:flex;
+      align-items: center;
+}
+
+.image{
+    width:200%;
+}
